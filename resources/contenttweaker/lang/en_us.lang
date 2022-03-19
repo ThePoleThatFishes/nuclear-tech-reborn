@@ -1,0 +1,31 @@
+tile.contenttweaker.cblock.name=Centrifuge
+tile.contenttweaker.lcegblock.name=Liquid Combustion Energy Generator
+tile.contenttweaker.pblock.name=Pressurizer
+
+fluid.deuterium_enriched_water=Deuterium-Enriched Water
+fluid.mixtureofgas=Fluid Mixture
+fluid.carbonicacid=Carbonic Acid
+fluid.polonium=Molten Polonium
+fluid.lithiumsix=Molten Lithium-6
+fluid.lithiumsvn=Molten Lithium-7
+fluid.boronten=Molten Boron-10
+fluid.boronelvn=Molten Boron-11
+fluid.spicygold=Molten Au-198
+fluid.contaminated_water=Contaminated Water
+
+item.contenttweaker.machine_template_1.name=Machine Template 1
+item.contenttweaker.machine_template_2.name=Machine Template 2
+item.contenttweaker.machine_template_3.name=Machine Template 3
+item.contenttweaker.machine_template_4.name=Machine Template 4
+item.contenttweaker.machine_template_5.name=Machine Template 5
+item.contenttweaker.machine_template_6.name=Machine Template 6
+item.contenttweaker.machine_template_7.name=Machine Template 7
+item.contenttweaker.machine_template_8.name=Machine Template 8
+item.contenttweaker.machine_template_9.name=Machine Template 9
+item.contenttweaker.machine_template_10.name=Machine Template 10
+item.contenttweaker.machine_template_11.name=Machine Template 11
+item.contenttweaker.machine_template_12.name=Machine Template 12
+item.contenttweaker.machine_template_13.name=Machine Template 13
+item.contenttweaker.machine_template_folder.name=Machine Template Folder
+item.contenttweaker.modular_blend.name=Modular Blend
+item.contenttweaker.catalyst.name=Catalyst
