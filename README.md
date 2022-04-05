@@ -1,5 +1,5 @@
 # nuclear-tech-reborn
-Nuclear Tech Reborn modpack wiki and bug tracker!
+Official repository and bug tracker for the Nuclear Tech Reborn modpack!
 
 Pack download: https://www.curseforge.com/minecraft/modpacks/nuclear-tech-reborn
 
