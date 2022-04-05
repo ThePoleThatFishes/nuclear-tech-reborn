@@ -1,6 +1,6 @@
 
 {
-  "ID": 119,
+  "ID": 118,
   "Name": "Twilight Swamp",
   "Resource Location": "twilightforest:twilight_swamp",
   "Class": "twilightforest.biomes.TFBiomeSwamp",
@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "WET",
-    "TWILIGHT",
-    "SWAMP"
+    "SWAMP",
+    "TWILIGHT"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

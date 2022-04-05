@@ -22,9 +22,9 @@
   "Dictionary Types": [
     "SPARSE",
     "MOUNTAIN",
+    "DRY",
     "HILLS",
-    "FOREST",
-    "DRY"
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

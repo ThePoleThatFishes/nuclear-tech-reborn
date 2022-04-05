@@ -1,6 +1,6 @@
 
 {
-  "ID": 145,
+  "ID": 144,
   "Name": "Moon",
   "Resource Location": "advancedrocketry:moon",
   "Class": "zmaster587.advancedRocketry.world.biome.BiomeGenMoon",
@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "COLD",
-    "WASTELAND",
-    "DRY"
+    "DRY",
+    "WASTELAND"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

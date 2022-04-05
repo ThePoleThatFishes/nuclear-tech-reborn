@@ -12,10 +12,10 @@ for i,material in materials {
 	var material = VanillaFactory.createBlock(material, <blockmaterial:iron>);
 	material.setBlockLayer("TRANSLUCENT");
 	material.setLightOpacity(255);
-	material.setBlockHardness(3);
-	material.setBlockResistance(30);
+	material.setBlockHardness(5);
+	material.setBlockResistance(3);
 	material.setToolClass("pickaxe");
-	material.setToolLevel(1);
+	material.setToolLevel(2);
 	material.register(); 
 }
 
